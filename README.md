@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/gülcan yürür" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gülcan yürür" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages I Have Basic Knowledge Of:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -41,17 +41,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> 
-  </a> 
   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entity-framework/entity-framework-original.svg" alt="entityframework" width="40" height="40"/> 
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulcanyurur&show_icons=true&locale=en&layout=compact" alt="gulcanyurur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulcanyurur&show_icons=true&locale=en" alt="gulcanyurur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulcanyurur&" alt="gulcanyurur" /></p>
 
