@@ -1,40 +1,37 @@
-<h3 align="center">Hello there! 👋 I'm Gülcan Yürür.</h3>
+# 👩‍💻 Gülcan Yürür | Front-End Developer
 
-<h3 align="center">I'm working on .NET and React.</h3>
+Merhaba! Ben Gülcan, kullanıcı odaklı ve modern web arayüzleri geliştirmeye tutkusu olan bir front-end developer'ım. React, JavaScript ve Formik ile dinamik, çok adımlı formlar oluşturarak gerçek hayata uygun web uygulamaları geliştiriyorum. Şu anda kariyerimi React/Next.js ekosistemi içinde büyütmeye odaklandım.
 
-- 📫 Contact me at: **gulcanyurur92@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gulcan-yurur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gulcan Yurur" height="30" width="40" /></a>
-</p>
+## 🚀 Teknolojiler
 
-<h3 align="left">Languages and Tools I Have Basic Knowledge Of:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-</p>
+- React, JavaScript, HTML, CSS  
+- React Router DOM, Axios, Context API, Formik, Yup  
+- Git, GitHub, Vercel, VS Code  
+- .NET Core (API geliştirme deneyimi), SQL Server (veri tabanı yönetimi)
 
+---
 
+## 🌟 Öne Çıkan Projeler
+
+### 🛡️ Sigorta Teklif Uygulaması ([Frontend](https://github.com/gulcanyurur/Insurance-Offer-React) | [Backend](https://github.com/gulcanyurur/Insurance-offer-application))
+- Çok adımlı bir sigorta teklif alma süreci: Kullanıcı bilgileri, seyahat bilgisi, kapsam seçimi, fiyat teklifi, ödeme ve poliçe görüntüleme.
+- **Formik + Yup** ile validasyon, **Context API** ile state yönetimi, **Axios** ile API haberleşmesi.
+- Backend: .NET Core API, Entity Framework, SQL Server kullanıldı.
+
+### 📄 Formik Projesi ([Repo](https://github.com/gulcanyurur/FormikProject))
+- Formik ve Yup kullanılarak özelleştirilmiş Input, Select, Checkbox bileşenleri geliştirildi.
+- Validation schema ile form kontrolü sağlandı, Link bileşeni ile yönlendirme uygulandı.
+
+### 👥 Çalışan Takip Uygulaması (Java) ([Repo](https://github.com/gulcanyurur/Employee-project))
+- Java ile NetBeans üzerinde geliştirilen login ekranı ve çalışan veri yönetimi.
+- SQL sorguları ile veri ekleme, silme, güncelleme işlemleri.
+
+### 📦 ADO.NET Ürün Yönetimi (C#) ([Repo](https://github.com/gulcanyurur/Ado.NetProject))
+- C# ve SQL Server Express kullanılarak ürün listesi, ekleme/silme/güncelleme özellikleri geliştirildi.
+- Katmanlı mimari yapısı ile yazıldı.
+
+---
 
 
