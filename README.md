@@ -24,25 +24,6 @@ React, JavaScript ve Formik ile dinamik, çok adımlı formlar oluşturarak web 
 
 ## 🌟 Öne Çıkan Projeler
 
-### 🔹 Sigorta Teklif Uygulaması 
-[Frontend](https://github.com/gulcanyurur/Insurance-Offer-React) | [Backend](https://github.com/gulcanyurur/Insurance-offer-application)  
-Çok adımlı bir sigorta teklif alma süreci: Kullanıcı bilgileri, seyahat bilgisi, kapsam seçimi, fiyat teklifi, ödeme ve poliçe görüntüleme.  
-
-- **Formik + Yup** ile validasyon  
-- **Context API** ile state yönetimi  
-- **Axios** ile API haberleşmesi  
-- **Backend:** .NET Core API, Entity Framework, SQL Server  
-
-
-### 🔹 Formik Projesi
-[Repo](https://github.com/gulcanyurur/FormikProject)  
-Formik ve Yup kullanılarak özelleştirilmiş Input, Select, Checkbox bileşenleri geliştirildi.  
-
-- Validation schema ile form kontrolü  
-- Link bileşeni ile yönlendirme  
-
----
-
 ### 🔹 SHOPCAT (E-Ticaret Uygulaması)
 [Repo](https://github.com/gulcanyurur/SHOPCAT)  
 React + TypeScript ile geliştirilen basit e-ticaret uygulaması.  
@@ -53,10 +34,27 @@ React + TypeScript ile geliştirilen basit e-ticaret uygulaması.
 
 ---
 
+### 🔹 Formik Projesi
+[Repo](https://github.com/gulcanyurur/FormikProject)  
+Formik ve Yup kullanılarak özelleştirilmiş Input, Select, Checkbox bileşenleri geliştirildi.  
+
+- Validation schema ile form kontrolü  
+- Link bileşeni ile yönlendirme  
+
+---
+
+## 🚧 Devam Eden Projeler
+
+### 🔹 Sigorta Teklif Uygulaması 
+[Frontend](https://github.com/gulcanyurur/Insurance-Offer-React) | [Backend](https://github.com/gulcanyurur/Insurance-offer-application)  
+
+> Şu anda geliştirme aşamasında. Çok adımlı sigorta teklif süreci için Formik, Yup, Context API ve Axios kullanıldı.  
+> Backend tarafında .NET Core API ve SQL Server ile geliştirmeler devam ediyor.
+
+---
+
 ## 📊 GitHub İstatistikleri
 ![Gulcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulcanyurur&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulcanyurur&layout=compact&theme=radical)  
-
----
 
 
